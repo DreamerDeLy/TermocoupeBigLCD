@@ -1,4 +1,5 @@
 # TermocoupeBigLCD
+[![Analytics](https://ga-beacon.appspot.com/UA-130292047-3/welcome-page)](https://github.com/igrigorik/ga-beacon)
 Проект з 2018 року.
 
 ![-](https://github.com/DreamerDeLy/TermocoupeBigLCD/blob/master/Pictures/photo_2018-12-24_17-14-44.jpg)
