@@ -1,15 +1,16 @@
 # TermocoupeBigLCD
-[![Analytics](https://ga-beacon.appspot.com/UA-130292047-3/welcome-page)](https://github.com/igrigorik/ga-beacon)
-Проект з 2018 року.
+Project from 2018. Thermostat with timers and settings based on Arduino. Control via encoder and LCD 1602 display. 
+
+> "Ультрапрофесіональний термостат для сушилки з функцією жарки сємєчок і тамером на тисячу років"
 
 ![-](https://github.com/DreamerDeLy/TermocoupeBigLCD/blob/master/Pictures/photo_2018-12-24_17-14-44.jpg)
 
 ## Features
-* Термомостат
-* Великий шрифт на LCD
-* Настройка спрацювання реле
-* Настрйока таймеру включення
-* Управління серез енкодер
+* Thermostat
+* Big font on LCD
+* Setting the relay operation
+* Setting the on timer
+* Control via encoder
 
 ## Pinout
 **Encoder**
